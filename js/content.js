@@ -88,7 +88,7 @@ window.CONTENT = {
       poster: "assets/img/ar-urban-greening.jpeg",
       preview: "assets/video/ar-urban-greening-preview.mp4",
       video: "assets/video/ar-urban-greening.mp4",
-      youtube: "",
+      youtube: "https://youtu.be/ihgevpY3bqY",
       images: [],
       links: []
     },
