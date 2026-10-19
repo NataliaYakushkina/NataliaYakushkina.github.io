@@ -36,7 +36,7 @@ window.CONTENT = {
       poster: "assets/img/ai-avatar-gallery.jpg",
       preview: "assets/video/ai-avatar-gallery-preview.mp4",
       video: "assets/video/ai-avatar-gallery.mp4",
-      youtube: "",
+      youtube: "https://youtu.be/bYCac7HQhBI",
       images: [],
       links: [
         // ["GitHub", "https://github.com/..."]
