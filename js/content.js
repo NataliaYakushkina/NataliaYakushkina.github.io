@@ -48,13 +48,15 @@ window.CONTENT = {
       pitch: "Real-time digital twin of an airport apron with live sensor data streamed into Unity.",
       tags: ["Unity", "C#", "Apache Kafka", "Meta XR SDK", "Quest Pro"],
       facts: [
-        ["Context", "Internship at Fraunhofer IEM — research project FastGate"],
-        ["Role", "Unity developer in the Digital Engineering team"],
+        ["Context", "Internship at Fraunhofer IEM, contributing to the research project FastGate"],
+        ["Role", "Intern, Unity developer in the Digital Engineering team"],
         ["Platform", "Desktop and Meta Quest Pro"]
       ],
       goal:
-        "The FastGate project aims to automate airport apron operations to reduce turnaround times, CO₂ emissions and noise. " +
-        "Its real-time digital twin visualizes aircraft, jet bridges and staff for process optimization, planning and VR training.",
+        "FastGate is a research project funded by the German Federal Ministry for Digital and Transport and the North Rhine-Westphalia Ministry of Economic Affairs, Industry, Climate Action and Energy. " +
+        "It aims to automate airport apron operations to reduce turnaround times, CO₂ emissions and noise. " +
+        "Its real-time digital twin visualizes aircraft, jet bridges and staff for process optimization, planning and VR training. " +
+        "During my internship, I contributed to the Unity digital twin, focusing on live data integration and the VR version.",
       built: [
         "Real-time data pipeline streaming sensor data into Unity via Apache Kafka",
         "Rigged, animated 3D characters representing tracked people",
