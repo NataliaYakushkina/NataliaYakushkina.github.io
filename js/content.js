@@ -48,7 +48,7 @@ window.CONTENT = {
       pitch: "Real-time digital twin of an airport apron with live sensor data streamed into Unity.",
       tags: ["Unity", "C#", "Apache Kafka", "Meta XR SDK", "Quest Pro"],
       facts: [
-        ["Context", "Internship at Fraunhofer IEM, contributing to the research project FastGate"],
+        ["Context", "Internship at Fraunhofer IEM"],
         ["Role", "Intern, Unity developer in the Digital Engineering team"],
         ["Platform", "Desktop and Meta Quest Pro"]
       ],
