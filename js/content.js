@@ -3,7 +3,7 @@ window.CONTENT = {
   profile: {
     name: "Natalia Yakushkina",
     background: "assets/img/bg.jpg",         
-    intro: "a Unity developer for digital twins, VR and AI-driven 3D worlds.",   
+    intro: "a 3D and XR developer for digital twins and AI-driven virtual worlds.",   
     photo: "assets/img/profile.png",          
     cv: "assets/CV_Natalia_Yakushkina.pdf",   
     email: "yakushkina.nat@gmail.com",
